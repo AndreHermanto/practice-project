@@ -17,7 +17,6 @@
 - Boolean(" ");
 - Boolean(-1);
 - "Hello" + "World" + 33
-- `Hello World ${33}`
 - 5*"3"
 - 14/"3"
 - "15"/3
